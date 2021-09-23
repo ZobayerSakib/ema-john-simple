@@ -1,0 +1,16 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid rgb(211, 210, 210);
+    margin-right: 6px;
+    padding:20px;
+}
+.product-btn{
+    background-color: orange;
+    color:black;
+    border:none;
+    /* padding:10px 50px; */
+    width:160px;
+    height:25px;
+    border-radius:5px;
+    cursor: pointer;
+}
